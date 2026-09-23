@@ -1,0 +1,6 @@
+{
+  "name": "EssenciaShop — Prototipo Visual",
+  "description": "Tienda online de accesorios y tecnología seleccionada para el día a día, con catálogo, filtros, carrito lateral y diseño moderno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
